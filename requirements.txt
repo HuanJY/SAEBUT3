@@ -1,0 +1,7 @@
+tensorflow  # Version de TensorFlow utilisée
+numpy       # Pour manipuler les tableaux et matrices
+Pillow      # Pour charger et manipuler les images (PIL)
+scikit-learn  # Pour la division des données (train_test_split)
+pandas       # Pour l'analyse et la manipulation des données
+tqdm         # Pour afficher des barres de progression
+notebook # jupyter notebook

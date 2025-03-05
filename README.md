@@ -8,7 +8,7 @@ Les fichiers `.keras` des modèles sont disponibles sur le [dépot HuggingFace](
   - Prédiction de **genre** uniquement
 - Modèle 2 ([notebook](https://github.com/HuanJY/SAEBUT3/blob/main/Model2.ipynb) | [fichier keras](https://huggingface.co/spaces/S501/s501/blob/main/model_v2_Q2.keras))
   - Prédiction d'**âge** uniquement
-- Modèle 3 ([notebook](https://github.com/HuanJY/SAEBUT3/blob/main/Model3.ipynb) | [fichier keras](https://huggingface.co/spaces/S501/s501/blob/main/model_Q3.keras))
+- Modèle 3 ([notebook](https://github.com/HuanJY/SAEBUT3/blob/main/Model3.ipynb) | [fichier keras](https://huggingface.co/spaces/S501/s501/blob/main/model_v2_Q3.keras))
   - Prédiction de **genre** et d'**âge**
 - Modèle 4 ([notebook](https://github.com/HuanJY/SAEBUT3/blob/main/Model4.ipynb) | [fichier keras](https://huggingface.co/spaces/S501/s501/blob/main/model_Q4.keras))
   - Prédiction de **genre** et d'**âge**, transfer learning basé sur EfficientNetB3

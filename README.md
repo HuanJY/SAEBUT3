@@ -12,3 +12,6 @@ Les fichiers `.keras` des modèles sont disponibles sur le [dépot HuggingFace](
   - Prédiction de **genre** et d'**âge**
 - Modèle 4 ([notebook](https://github.com/HuanJY/SAEBUT3/blob/main/Model4.ipynb) | [fichier keras](https://huggingface.co/spaces/S501/s501/blob/main/model_Q4.keras))
   - Prédiction de **genre** et d'**âge**, transfer learning basé sur EfficientNetB3
+
+## HuggingFace 
+https://huggingface.co/spaces/S501/s501
